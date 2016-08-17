@@ -1,0 +1,28 @@
+name: Online Video Marketing Summit
+favicon: null
+layout_spectrum: 0.9382646351587027
+typography_spectrum: 0.025645296089351177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4529613610357046
+  lightness: 0.8245368006173521
+  saturation: 0.290989889530465
+  rhythmicContrast: 0.6883326796814799
+purpose: []
